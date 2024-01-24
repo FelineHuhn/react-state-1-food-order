@@ -17,6 +17,10 @@ body {
   align-content: center;
 }
 
+p {
+  font-size: larger;
+}
+
 button {
   font-size: larger;
   padding: 0.5rem 1rem;
